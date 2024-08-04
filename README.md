@@ -1,4 +1,4 @@
-![movie-2](https://github.com/user-attachments/assets/3a0ff03a-0225-4855-962a-d43728c49f46)# movie-site clone (react로 영화사이트 클론 제작)
+movie-site clone (react로 영화사이트 클론 제작)
 리액트로 영화사이트 클론을 구현했습니다.
 
 
