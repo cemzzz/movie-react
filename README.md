@@ -3,7 +3,7 @@
 
 
 # 🛠
-![react](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=React&logoColor=white)
+![react](https://img.shields.io/badge/React-02569B?style=for-the-badge&logo=React&logoColor=white)
 
 
  
