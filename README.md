@@ -1,5 +1,5 @@
 # movie-site clone (react로 영화사이트 클론 제작)
-리액트로 영화사이트 클론을 구현했습니다.
+TMDB 영화 API를 활용하여 리액트로 영화사이트 클론을 구현했습니다.
 
 
 # 🛠
@@ -15,19 +15,23 @@
 
 <h4> 메인 </h4>
 <div>
+<p>메인 상단</p>
 <img width="50%" src="https://github.com/user-attachments/assets/d31f0e43-1cec-4427-95c1-c5397d790448"/>
 </div>
 
 <div>
+ <p>메인 영화 리스트</p>
  <img width="50%" src="https://github.com/user-attachments/assets/525a37b4-628f-497d-881b-741fd9825a77"/>
 </div>
 
 <h4> 영화 리스트 및 검색 결과 </h4>
 <div>
+<p> 영화 리스트</p>
 <img width="50%" src="https://github.com/user-attachments/assets/e03232cf-ee5e-4a2b-84b5-ccf45fcee9d1"/>
 </div>
 
 <div>
+ <p>영화 검색 결과</p>
  <img width="50%" src="https://github.com/user-attachments/assets/e08b3593-717e-4ade-a256-09a362858ca6"/>
 </div>
 
