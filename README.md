@@ -19,7 +19,6 @@ TMDB 영화 API를 활용하여 리액트로 영화사이트 클론을 구현했
 <img width="75%" src="https://github.com/user-attachments/assets/d31f0e43-1cec-4427-95c1-c5397d790448"/>
 </div>
 <div></div>
-
 <div>
   <p>- 영화리스트에는 인기있는 영화 api를 호출하여 리스트를 보여주도록 구현했습니다. </p>
  <img width="75%" src="https://github.com/user-attachments/assets/525a37b4-628f-497d-881b-741fd9825a77"/>
